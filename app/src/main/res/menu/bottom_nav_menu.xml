@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home"
+        android:title="Главная" />
+    <item
+        android:id="@+id/navigation_galery"
+        android:icon="@drawable/ic_galery"
+        android:title="Галерея" />
+    <item
+        android:id="@+id/navigation_camera"
+        android:icon="@drawable/ic_camera"
+        android:title="Камера" />
+    <item
+        android:id="@+id/navigation_cloud"
+        android:icon="@drawable/ic_cloud"
+        android:title="История" />
+
+</menu>
